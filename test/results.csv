@@ -1,0 +1,5 @@
+,image_files,caption,prob
+0,./test/images/1.jpg,a man and a woman are playing a video game.,0.0004530167519456516
+1,./test/images/2.jpg,a bird flying in the air on a cloudy day.,7.407052797106737e-05
+2,./test/images/3.jpg,a black and white photo of a small bird.,7.317627164242368e-05
+3,./test/images/4.jpg,a white toilet sitting on top of a table.,9.175681459726262e-05
